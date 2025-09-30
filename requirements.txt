@@ -4,4 +4,4 @@ numpy
 matplotlib
 pyplot
 seaborn
-plotly.express
+plotly
